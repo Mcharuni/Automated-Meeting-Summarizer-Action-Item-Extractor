@@ -1,0 +1,7 @@
+[00:01:15] Alice: Good morning everyone. Let's start the Q3 planning sprint. Bob, can you give us an update on the backend migration?
+[00:02:40] Bob: Sure. The database migration is 80% complete, but we hit a roadblock with user authentication latency. I need to coordinate with David to fix this by Thursday.
+[00:04:10] Alice: Understood. David, can you support Bob on that?
+[00:04:25] David: Yes, I can set up a sync call with Bob tomorrow morning. Also, I will finalize the API documentation by Friday.
+[00:06:50] Alice: Excellent. Charlie, how is the frontend redesign looking?
+[00:07:30] Charlie: The UI mockups are ready. I need product team sign-off before we start coding.
+[00:08:15] Alice: I will review the mockups and provide feedback by end of day today.
